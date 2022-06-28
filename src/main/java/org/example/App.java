@@ -11,5 +11,6 @@ public class App
 
         System.out.println( "Hello World!version01" );
         System.out.println("master01");
+        System.out.println("hot-fix01");
     }
 }
